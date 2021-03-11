@@ -1,4 +1,4 @@
-# Vorlesung-GUI-2020
+# Vorlesung-GUI-2021
 Vorlesung Grafische Benutzeroberflächen im SS 2021
 
 ## Empfohlene Voraussetzungen
