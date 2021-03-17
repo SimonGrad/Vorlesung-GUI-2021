@@ -1,0 +1,28 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.9'
+    id 'application'
+}
+
+group 'de.throsenheim.gui'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.6.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+javafx {
+    version = "16"
+    modules = [ 'javafx.controls', 'javafx.fxml' ]
+}
+
+mainClassName = 'de.throsenheim.gui.locations.LocationsFxMain'
