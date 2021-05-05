@@ -49,3 +49,8 @@ Ziel der Übung ist es die Oberfläche aus Übung 3 nach dem MVP Muster mit Data
 Ziel der Übung ist es, erste Erfahrungen in der Gestaltung von Dialogen zu sammeln.
 
 <a href="docbase/U-05-Dialoggestaltung.pdf">Übungsblatt 4</a>
+
+### Übung 6 - GUI Komponenten
+Ziel der Übung ist es, eine Oberfläche bestehend aus Eingabeformular und Tabelle zu erzeugen. Die Oberfläche aus Übung 4 soll dazu als Komponente verwendet und eingebettet werden.
+
+<a href="docbase/U-06-GUI-Komponenten.pdf">Übungsblatt 5</a>
