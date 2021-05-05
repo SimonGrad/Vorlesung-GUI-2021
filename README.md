@@ -53,4 +53,4 @@ Ziel der Übung ist es, erste Erfahrungen in der Gestaltung von Dialogen zu samm
 ### Übung 6 - GUI Komponenten
 Ziel der Übung ist es, eine Oberfläche bestehend aus Eingabeformular und Tabelle zu erzeugen. Die Oberfläche aus Übung 4 soll dazu als Komponente verwendet und eingebettet werden.
 
-<a href="docbase/U-06-GUI-Komponenten.pdf">Übungsblatt 5</a>
+<a href="docbase/U-06-GUI-Komponenten.pdf">Übungsblatt 6</a>
