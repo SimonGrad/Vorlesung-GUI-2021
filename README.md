@@ -54,3 +54,8 @@ Ziel der Übung ist es, erste Erfahrungen in der Gestaltung von Dialogen zu samm
 Ziel der Übung ist es, eine Oberfläche bestehend aus Eingabeformular und Tabelle zu erzeugen. Die Oberfläche aus Übung 4 soll dazu als Komponente verwendet und eingebettet werden.
 
 <a href="docbase/U-06-GUI-Komponenten.pdf">Übungsblatt 6</a>
+
+### Übung 7 - Event-Bus
+Ziel der Übung ist es die Oberfläche der vergangenen Übungen um einen Event-Bus zu erweitern. Dieser soll dazu verwendet werden eine Statusanzeige anzubinden (lose Kopplung).
+
+<a href="docbase/U-07-Event-Bus.pdf">Übungsblatt 6</a>
