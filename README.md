@@ -69,3 +69,8 @@ Ziel der Übung ist es, eine (simuliert) langlaufende Aktion außerhalb des UI-
 Ziel der Übung ist es, die bekannte Anwendung in eine Schichtenarchitektur zu überführen. Die Schichten werden dabei als eigene Komponenten umgesetzt. Technisch erfolgt dies als Multi-Projekt-Gradle-Build.
 
 <a href="docbase/U-09-Architektur.pdf">Übungsblatt 9</a>
+
+### Übung 10 - Web GUIs Teil 1
+Wir entwickeln die Webversion unseres Formulars aus den vergangenen Übungen.
+
+<a href="docbase/U-10-Web01.pdf">Übungsblatt 10</a>
