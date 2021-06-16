@@ -74,3 +74,8 @@ Ziel der Übung ist es, die bekannte Anwendung in eine Schichtenarchitektur zu �
 Wir entwickeln die Webversion unseres Formulars aus den vergangenen Übungen.
 
 <a href="docbase/U-10-Web01.pdf">Übungsblatt 10</a>
+
+### Übung 11 - Web GUIs Teil 2
+Wir verwenden das HTML der letzten Übung, um eine kleine laufähige Web-Version des Formulars zu erzeugen. Als Framework verwenden wir dazu Angular.
+
+<a href="docbase/U-11-Web02.pdf">Übungsblatt 11</a>
